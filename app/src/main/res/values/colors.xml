@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF704B7C</color>
+    <color name="onPrimary">#FFFFFFFF</color>
+    <color name="divider">#FFF5F5F5</color>
+    <color name="onSurfaceMedium">#FFB6B6B6</color>
 </resources>
