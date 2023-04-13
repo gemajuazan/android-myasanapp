@@ -10,5 +10,9 @@
     <color name="primary">#FF704B7C</color>
     <color name="onPrimary">#FFFFFFFF</color>
     <color name="divider">#FFF5F5F5</color>
+    <color name="outlineForm">#FFDCDCDC</color>
+    <color name="onSurface">#FF818080</color>
     <color name="onSurfaceMedium">#FFB6B6B6</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surfaceMedium">#FFF5F5F5</color>
 </resources>

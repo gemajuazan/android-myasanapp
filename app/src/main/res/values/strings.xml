@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">myasanapp</string>
+    <string name="title_activity_sport">SportActivity</string>
+    <string name="add">Añadir</string>
+    <string name="seated">Sentado</string>
+    <string name="standing">De pie</string>
+    <string name="lyingDown">Tumbado</string>
+    <string name="basic">Básico</string>
+    <string name="intermediate">Intermedio</string>
+    <string name="advanced">Avanzado</string>
+    <string name="partsOfBodyAffected">Partes del cuerpo al que afecta</string>
+    <string name="musclesContracted">Músculos contraídos</string>
+    <string name="musclesStretched">Músculos estirados</string>
+    <string name="noPartsOfBodyAdded">No hay partes del cuerpo añadidas</string>
+    <string name="noInformation">No hay información</string>
 </resources>
