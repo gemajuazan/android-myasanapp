@@ -1,4 +1,4 @@
-package org.gemapp.appilates.ui.theme
+package org.gemapp.myasanaapp.main.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

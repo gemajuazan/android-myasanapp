@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Appilates"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="org.gemapp.myasanaapp.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Appilates">

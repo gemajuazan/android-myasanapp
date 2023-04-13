@@ -1,4 +1,4 @@
-package org.gemapp.appilates
+package org.gemapp.myasanaapp
 
 import org.junit.Test
 
